@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @salonisnaik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me snaik7@ucmerced.edu...
+- 👀 I’m interested in cognitive science!
+- 📫 How to reach me snaik7@ucmerced.edu
 - 😄 Pronouns: she/her/hers 
-- ⚡ Fun fact: I love to crochet! My latest project was a photocard holder
+- ⚡ Fun fact: I love to crochet! My latest project was a star charm :).
 
 <!---
 salonisnaik/salonisnaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
